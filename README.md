@@ -24,6 +24,6 @@
 ## ⌛ github 실행하기
  1. 새폴더에 해당 url을 git clone 합니다
  2. front 폴더에서 npm install 받습니다.
- 3. expo start 
+ 3. front 위치에서 expo start 
   - 이후 브라우저나 android emulator에서 확인 가능합니다. 
     expo go 이용시 어플로 확인 가능합니다
